@@ -10,6 +10,8 @@ A solo-directed, AI-assisted Unreal Engine 5 project combining tower defense pla
 
 ## Start here
 
+**[Agreed roadmap to the public demo](ROADMAP.md)** — seven stages, completion criteria and the plan for future portfolio updates.
+
 | What to explore | Evidence of my work |
 |---|---|
 | [From concept to playable mission](journey/PROJECT_JOURNEY.md) | Scope decisions, early prototypes, map iteration and remaining work |

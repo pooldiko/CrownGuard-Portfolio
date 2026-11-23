@@ -2,6 +2,8 @@
 
 The written portfolio is a first curated edition. These additions would strengthen it without inventing missing history.
 
+The [agreed roadmap](ROADMAP.md) defines the work order: publish this edition first, add the systems overview second, then proceed through external testing, visuals, audio, optimization and demo release. The list below supports those stages; it is not an additional publication gate.
+
 1. Recover the earliest original drawings, including the cart-route sketch. Preserve originals and prepare clearly labeled English companion versions.
 2. Capture the current map and one short gameplay sequence with English UI. Historical renders must not be relabeled as current.
 3. Record two comparable strategies using the same profile and laboratory preset. Include both a useful failure and a successful response if those outcomes occur naturally.
