@@ -8,6 +8,18 @@ A solo-directed, AI-assisted Unreal Engine 5 project combining tower defense pla
 ![Historical forest blockout showing the village, two approaches and a shared defense position](media/forest-iteration.png)
 *Historical November 1 blockout, not the latest map. Its shared defense position became an important balance experiment. Placeholder geometry is intentional.*
 
+## Roadmap at a glance
+
+1. **Complete — Publish the initial portfolio.**
+2. **Complete — Document the main systems and their relationships.** [Read the systems overview](SYSTEMS.md).
+3. **Next — External playtest, feedback and prioritized fixes.**
+4. **Planned — Models, environment art, icons and visual effects.**
+5. **Planned — Combat, interface and environmental audio.**
+6. **Planned — Final optimization and quality checks.**
+7. **Planned — Prepare, verify and release the demo.**
+
+Documentation status updated on 23 November 2026. Completed documentation stages do not certify gameplay readiness. Performance checks continue throughout art and audio integration.
+
 ## Start here
 
 **[Agreed roadmap to the public demo](ROADMAP.md)** — seven stages, completion criteria and the plan for future portfolio updates.

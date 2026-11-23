@@ -2,7 +2,7 @@
 
 Agreed with the project owner on **22 November 2026**. This is the working sequence for development and portfolio updates. Changes to scope or order should be recorded explicitly rather than silently replacing earlier decisions.
 
-**Current position (23 November 2026):** Stage 1 is complete: the initial English portfolio is published at [pooldiko/CrownGuard-Portfolio](https://github.com/pooldiko/CrownGuard-Portfolio). Stage 2, the main systems overview, is next. Later stages remain planned. No completion dates have been committed.
+**Current position (23 November 2026):** Stage 1 is complete: the initial English portfolio is published at [pooldiko/CrownGuard-Portfolio](https://github.com/pooldiko/CrownGuard-Portfolio). Stage 2 is complete with the [main systems overview](SYSTEMS.md). Stage 3, external playtesting and prioritized fixes, is next. Later stages remain planned. No completion dates have been committed.
 
 ## Demo scope
 
@@ -39,7 +39,7 @@ All public portfolio material is maintained in English. Record measured improvem
 ## Progress tracker
 
 - [x] Stage 1: Initial portfolio published on 23 November 2026.
-- [ ] Stage 2: Main systems overview added.
+- [x] Stage 2: Main systems overview added on 23 November 2026; documentation only, not new gameplay certification.
 - [ ] Stage 3: External playtest, prioritized fixes and retests completed.
 - [ ] Stage 4: Visual integration completed and checked.
 - [ ] Stage 5: Audio integration completed and checked.

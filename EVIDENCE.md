@@ -32,3 +32,16 @@ The original hand-drawn cart sketch has not been recovered. It is not replaced w
 - **Pending verification:** a scenario is defined, but no matching result is presented.
 
 No new engine tests or gameplay sessions were run to assemble this portfolio. Historical dates are documentation dates unless explicitly identified otherwise.
+
+## Stage 2 source additions (23 November 2026)
+
+| ID | Retained source | Scope and limitation |
+|---|---|---|
+| E10 | `DEFENSE_CLARITY_20261121.md` | Objective consequences, stars and warnings; implementation record with manual checks pending in that cycle |
+| E11 | `BARRICADE_RANGED_STAGE.md` | Barricade progression and ranged enemies; historical wave counts superseded by E08 |
+| E12 | `GAMEPLAY_PACKAGE_2_LOOT.md` | Loot, equipment and Phoenix Bow; historical three-wave schedule is not current |
+| E13 | `ITEM_SALVAGE_20261122.md` | Salvage, safeguards and unimplemented ingot spending; no new gameplay proof |
+| E14 | `VILLAGE_INTRO_JOURNAL_20261121.md` | Dialogue, journal and progressive tutorial; demolition timing superseded by E09 |
+| E15 | `BALANCE_V01_PASSIVES.md` | Persistent passive system; use as system context, not a current universal stat table |
+
+Stage 2 synthesizes these records in `SYSTEMS.md`. It does not constitute an engine audit or a newly executed test run.
